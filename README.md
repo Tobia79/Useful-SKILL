@@ -16,6 +16,7 @@
 | [`zh-readme`](skills/zh-readme/) | 中文 README 生成器：先读项目再写面向中文开发者的高质量 README | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-readme) |
 | [`zh-code-reviewer`](skills/zh-code-reviewer/) | 中文代码审查：按清单审查并生成中文审查报告 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer) |
 | [`test-generator`](skills/test-generator/) | 自动生成单元测试：覆盖边界条件并产出可运行测试代码 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/test-generator) |
+| [`zh-prefer`](skills/zh-prefer/) | 中文优先：文档/对话/注释等自然语言默认中文，标识符与协议字段保持英文 | 自建（与 `.cursor/skills/zh-prefer` 同步） |
 
 ## 在 Cursor 中使用
 

@@ -11,6 +11,7 @@
 | [`check-prd-skill`](skills/check-prd-skill/) | 用 14 维度审查 B 端 PRD | [pmYangKun/check-prd-skill](https://github.com/pmYangKun/check-prd-skill) |
 | [`create-prd-skill`](skills/create-prd-skill/) | 生成结构化 B 端 PRD | [pmYangKun/create-prd-skill](https://github.com/pmYangKun/create-prd-skill) |
 | [`spec-plan`](skills/spec-plan/) | Spec 驱动开发：收敛需求并落盘 Spec | [JunhuaLiu1/awesome-skills](https://github.com/JunhuaLiu1/awesome-skills/tree/main/skills/spec-plan) |
+| [`ui-ux-pro-max`](skills/ui-ux-pro-max/) | UI/UX 设计智能库（样式/配色/字体/UX 指南，可检索） | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
 
 ## 在 Cursor 中使用
 
@@ -34,4 +35,5 @@
 
 - `frontend-design`：见目录内 `LICENSE.txt`（Apache 2.0，源自 Anthropic）
 - `check-prd-skill` / `create-prd-skill`：以原作者 pmYangKun 仓库为准
+- `ui-ux-pro-max`：MIT（NextLevelBuilder），见目录内 `LICENSE`
 - 其余 skill：保留原作者声明；本仓库仅作整理与备份

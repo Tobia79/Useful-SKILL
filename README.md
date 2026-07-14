@@ -14,6 +14,8 @@
 | [`ui-ux-pro-max`](skills/ui-ux-pro-max/) | UI/UX 设计智能库（样式/配色/字体/UX 指南，可检索） | [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
 | [`spec-kit`](skills/spec-kit/) | GitHub Spec-Driven Development 工具包（CLI + 需求/技术方案模板） | [github/spec-kit](https://github.com/github/spec-kit) |
 | [`zh-readme`](skills/zh-readme/) | 中文 README 生成器：先读项目再写面向中文开发者的高质量 README | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-readme) |
+| [`zh-code-reviewer`](skills/zh-code-reviewer/) | 中文代码审查：按清单审查并生成中文审查报告 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/zh-code-reviewer) |
+| [`test-generator`](skills/test-generator/) | 自动生成单元测试：覆盖边界条件并产出可运行测试代码 | [laolaoshiren/claude-code-skills-zh](https://github.com/laolaoshiren/claude-code-skills-zh/tree/main/skills/test-generator) |
 
 ## 在 Cursor 中使用
 
@@ -52,5 +54,5 @@
 - `check-prd-skill` / `create-prd-skill`：以原作者 pmYangKun 仓库为准
 - `ui-ux-pro-max`：MIT（NextLevelBuilder），见目录内 `LICENSE`
 - `spec-kit`：见目录内 `LICENSE`（上游 github/spec-kit）
-- `zh-readme`：MIT（laolaoshiren），见目录内 `LICENSE`
+- `zh-readme` / `zh-code-reviewer` / `test-generator`：MIT（laolaoshiren），见各自目录内 `LICENSE`
 - 其余 skill：保留原作者声明；本仓库仅作整理与备份
